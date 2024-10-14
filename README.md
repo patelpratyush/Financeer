@@ -18,6 +18,8 @@
 
 ## Demo
 
+<https://financeer-dashboard.vercel.app/>
+
 ## Cloning the Repository
 
 To get started, clone the repository to your local machine:
