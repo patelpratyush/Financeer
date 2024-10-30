@@ -1,5 +1,7 @@
 # Financeer
 
+Financeer showcases a full-stack dashboard application designed for financial analysis and reporting. With a React and TypeScript-based frontend, it delivers a clean and efficient user interface, complemented by dynamic visualizations. The backend is powered by Express.js and MongoDB, providing a robust environment for data-driven insights.
+
 ## Tech Stack
 
 ### Frontend
